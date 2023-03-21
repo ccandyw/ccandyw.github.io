@@ -1,0 +1,8 @@
+.bg {
+    background-image: url(nwm.jpeg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #e1fad7;
+}
